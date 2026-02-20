@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "TakaoPMincho";
+    src: url("/fonts/TakaoPMincho.ttf") format("ttf");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TakaoPGothic";
+    src: url("/fonts/TakaoPGothic.ttf") format("ttf");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+* {
+    font-family: "TakaoPMincho", serif; /* Silly, but I want it all serifed rn and idc about procedure this is MY webbed site */
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: auto;
+}
