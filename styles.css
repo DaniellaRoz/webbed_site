@@ -31,3 +31,24 @@ body {
 footer {
     margin-top: auto;
 }
+
+ol, li {
+    padding-left: 1rem;
+}
+
+.blog-header {
+    margin: 20px;
+    margin-bottom: 0;
+}
+
+.blog-body {
+    margin: 30px;
+    font-size: 14pt;
+    max-width: 1000px;
+    line-height: 1.5;
+}
+
+.footnotes {
+    margin: 20px;
+    margin-bottom: 30px;
+}
