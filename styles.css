@@ -14,18 +14,17 @@
     font-display: swap;
 }
 
-
 * {
     font-family: "TakaoPMincho", serif; /* Silly, but I want it all serifed rn and idc about procedure this is MY webbed site */
     box-sizing: border-box;
-    padding: 0;
-    margin: 0;
 }
 
 body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    padding: 0;
+    margin: 0;
 }
 
 footer {
@@ -36,7 +35,15 @@ ol, li {
     padding-left: 1rem;
 }
 
-.blog-header {
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 5px;
+}
+
+.page-header {
     margin: 20px;
     margin-bottom: 0;
 }
@@ -51,4 +58,8 @@ ol, li {
 .footnotes {
     margin: 20px;
     margin-bottom: 30px;
+}
+
+#sum-row > td {
+    border-top: 1px solid black;
 }
