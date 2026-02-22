@@ -22,7 +22,7 @@ import { loadBooks, convertToTally } from "./functions.js";
 
         title.textContent = books[i]["title"];
         author.textContent = books[i]["author"];
-        year.textContent = books[i]["year"];
+        year.textContent = books[i]["year"] + "年";
         characterCount.textContent = books[i]["characterCount"];
         timesReadCell.textContent = convertToTally(timesRead);
     }
