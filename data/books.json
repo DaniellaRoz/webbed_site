@@ -89,20 +89,38 @@
             "timesRead": 1
         },
         {
-            "title": "少女星間漂流記2",
-            "author": "東崎惟子",
-            "year": 2024,
-            "characterCount": 99130,
-            "finished": "N/A",
-            "timesRead": 0
-        },
-        {
             "title": "青春は白百合の花束だ",
             "author": "綾加奈",
             "year": 2020,
             "characterCount": 241906,
             "finished": "20260318",
             "timesRead": 1
+        },
+        {
+            "title": "キッキン・オン・ヘブンス・ドア",
+            "titleReading": "きっきんおんへぶんすどあ",
+            "author": "綾加奈",
+            "authorReading": "あやかな",
+            "year": 2019,
+            "characterCount": 101631,
+            "timesRead": 0
+        },
+        {
+            "title": "空の器なにに注ぐ？",
+            "titleReading": "からのうつわなににそそぐ",
+            "author": "綾加奈",
+            "authorReading": "あやかな",
+            "year": 2019,
+            "characterCount": 149197,
+            "timesRead": 0
+        },
+        {
+            "title": "少女星間漂流記2",
+            "author": "東崎惟子",
+            "year": 2024,
+            "characterCount": 99130,
+            "finished": "N/A",
+            "timesRead": 0
         }
     ]
 }
